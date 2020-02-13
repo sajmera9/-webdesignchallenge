@@ -1,0 +1,47 @@
+.container {
+    height: 350px;
+    color: black;
+    /* background:rgb(53, 216, 216); */
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 13px;
+    line-height: 150%;
+    /* height: 500px; */
+    /* color: lightslategray; */
+    background:rgb(237, 237, 237);
+  }
+  
+.box {
+    margin: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+    padding-bottom: 24px;
+    background:white;
+
+}
+.row {
+    padding-right: 20px;
+}
+.title {
+    color: rgb(31,172,165);
+    font-weight: bold;
+
+}
+
+.subTitle {
+    color: rgb(31,172,165);
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+
+}
+a.navbar-brand {
+    color: rgb(31,172,165);
+
+
+}
